@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Gastos deviaje</string>
+    <string name="titulo_viaje">Bariloche 2026</string>
+    <string name="fechas_viaje">12 al 19 de enero</string>
+    <string name="label_total">Total</string>
+    <string name="label_por_persona">Por persona</string>
+    <string name="label_amigos">Amigos</string>
+    <string name="titulo_gastos">Gastos</string>
+    <string name="btn_agregar_gasto">Agregar gasto</string>
+    <string name="total_format">$%1$d</string>
 </resources>
