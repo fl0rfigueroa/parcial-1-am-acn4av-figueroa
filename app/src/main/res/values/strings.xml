@@ -8,4 +8,7 @@
     <string name="titulo_gastos">Gastos</string>
     <string name="btn_agregar_gasto">Agregar gasto</string>
     <string name="total_format">$%1$d</string>
+    <string name="desc_foto_viaje">Foto de Bariloche</string>
+    <string name="valor_inicial_cero">$0</string>
+    <string name="cantidad_amigos">4</string>
 </resources>
